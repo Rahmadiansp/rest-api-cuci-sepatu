@@ -25,7 +25,7 @@ API ini dibuat untuk mempermudah proses pencatatan, pemantauan, dan pembaruan st
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/rest-api-cuci-sepatu.git
+git clone https://github.com/Rahmadiansp/rest-api-cuci-sepatu.git
 cd rest-api-cuci-sepatu
 ```
 
@@ -40,8 +40,8 @@ npm install
 Buat file `.env` dan isi dengan kredensial Supabase Anda:
 
 ```env
-SUPABASE_URL=https://your-project.supabase.co
-SUPABASE_KEY=your-supabase-anon-key
+SUPABASE_URL=https://hvmbmyhajxjikrajnkzb.supabase.co
+SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh2bWJteWhhanhqaWtyYWpua3piIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjEyMDE3NzIsImV4cCI6MjA3Njc3Nzc3Mn0.ZALNgYnrYRzpdz27roTFrYESI10rGshQjOvQoTNIH-c
 PORT=3000
 NODE_ENV=development
 ```
@@ -265,7 +265,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/username/rest-api-cuci-sepatu.git
+git remote add origin https://github.com/Rahmadiansp/rest-api-cuci-sepatu.git
 git push -u origin main
 ```
 
@@ -279,7 +279,7 @@ git push -u origin main
    - `NODE_ENV=production`
 4. Klik Deploy
 
-## 🧪 Testing
+## Testing
 
 ### Menggunakan Thunder Client (VS Code Extension)
 
